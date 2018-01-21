@@ -4,4 +4,4 @@ I recently finished up a [script to analyze IL school data](https://github.com/d
 
 ## Diversity
 
-Illinois public schools, by student, are still predominantly white: [il_rc17_racial_breakdown](https://raw.githubusercontent.com/daidado/daidado.github.io/master/code/IL_schools/outfiles/il_rc17_racial_breakdown.png)
+Illinois public schools, by student, are still predominantly white: ![il_rc17_racial_breakdown](https://raw.githubusercontent.com/daidado/daidado.github.io/master/code/IL_schools/outfiles/il_rc17_racial_breakdown.png)
